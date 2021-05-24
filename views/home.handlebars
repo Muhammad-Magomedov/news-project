@@ -1,0 +1,16 @@
+<div class="container">
+  <div class="news">
+    <div class="upperNews">
+      {{#each mainNews}}
+        <a class="id" href="{{id}}"><img class="mainImg" src="{{image}}" alt="">
+        <h1 class="title">{{title}}</h1></a>
+      </div>
+    {{/each}}
+      <div class="sideBar">
+        {{#each sideBar}}
+        <a class="id" href="{{id}}"><img class="sideBarImg" src="{{image}}" alt="">
+          <h1 class="sideBarTitle">{{title}}</h1></a>
+        {{/each}}
+      </div>
+  </div>
+</div>

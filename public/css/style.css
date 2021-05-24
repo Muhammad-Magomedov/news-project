@@ -1,0 +1,147 @@
+body {
+    font-family: 'Mukta', sans-serif;
+}
+.headers {
+    display: flex;
+    width: 1000px;
+    justify-content: space-between;
+    margin: auto;
+    font-weight: bold;
+    border-bottom: 1px solid;
+     padding: 20px;
+}
+.sportsNews {
+    line-height: 5em;
+}
+.politsNews {
+    line-height: 5em;
+}
+.incidentsNews {
+    line-height: 5em;
+}
+.itNews {
+    line-height: 5em;
+}
+.bi {
+    font-size: 50px;
+}
+
+.content{
+    width: 1000px;
+    margin: auto;
+    display: flex;
+
+}
+
+.img {
+    width: 500px;
+
+}
+
+.mainImg {
+    width: 100%;
+}
+
+
+.bi {
+    font-size: 50px;
+}
+
+.content{
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+
+}
+
+.container {
+    display: flex;
+    width: 1000px;
+    margin:auto;
+}
+
+.newsDiv {
+    width: 200px;
+}
+.image {
+    width: 200px;
+}
+
+.sideBar {
+    width: 200px;
+}
+
+.mainImg {
+    width: 500px;
+
+}
+
+.img {
+    width: 100%;
+}
+
+.container_comm {
+    display: flex;
+    justify-content: space-between;
+    
+    
+    margin-top: 50px;
+
+
+}
+
+input {
+    width: 700px;
+    height: 100px;
+}
+
+button {
+    width: 200px;
+}
+
+.comments {
+    margin-top: 20px;
+    
+}
+
+.nickName {
+    width: 500px;
+    height: 50px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.nickNameDiv {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+    display: flex;
+}
+
+.spanComm {
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.mainImg {
+    width: 500px;
+}
+
+.sideBarImg {
+    width: 200px;
+}
+
+.sideBarTitle {
+    font-size: 20px;
+}
+
+.id {
+    text-decoration: none;
+    color: black;
+}

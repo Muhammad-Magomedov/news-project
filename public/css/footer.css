@@ -1,0 +1,17 @@
+body {
+    font-family: 'Mukta', sans-serif;
+}
+.footer {
+    background-color: black;
+    color: white;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.podval {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin: 30px;
+}
